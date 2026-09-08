@@ -61,3 +61,627 @@ I work across the full development lifecycle — from **data analysis and machin
 **Artificial Intelligence • Machine Learning • Data • Software Engineering**
 
 > Building technology that solves real problems — not just demos.
+---
+
+## ⚡ What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Predictive Modeling
+- Classification & Regression
+- Feature Engineering
+- Model Evaluation
+- Explainable AI
+- AI-powered Applications
+- LLM-based Solutions
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+- Full Stack Web Development
+- REST APIs
+- Responsive Web Applications
+- Database Integration
+- Mobile Applications
+- Frontend & Backend Development
+- Software Architecture
+- Testing & Debugging
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Data & ML Engineering
+
+- Data Cleaning & Validation
+- Exploratory Data Analysis
+- Data Preprocessing
+- Cross-Validation
+- Hyperparameter Tuning
+- Performance Analysis
+- Error Analysis
+- ML Pipelines
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Product Development
+
+- Turning ideas into working products
+- Building end-to-end solutions
+- Research-driven development
+- Rapid prototyping
+- Problem solving
+- Technical experimentation
+- Deployable software projects
+- Continuous improvement
+
+</td>
+
+</tr>
+</table>
+---
+
+## 🤖 AI / Machine Learning Expertise
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠
+**Machine Learning**
+
+Classification  
+Regression  
+Model Selection  
+Cross-Validation  
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**Data Science**
+
+EDA  
+Preprocessing  
+Feature Engineering  
+Data Validation  
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔬
+**Model Development**
+
+Scikit-learn  
+Hyperparameter Tuning  
+Model Evaluation  
+Error Analysis  
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**AI Applications**
+
+Predictive Systems  
+AI Automation  
+LLM Applications  
+Intelligent Products  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
+
+## 💻 Development Expertise
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🌐 Web Development
+
+**Frontend**
+
+HTML • CSS • JavaScript  
+React • TypeScript
+
+**Backend**
+
+Node.js • REST APIs  
+Database Integration
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱 Mobile Development
+
+**Cross-Platform**
+
+Flutter • Dart
+
+**Native**
+
+Kotlin • Java
+
+Building responsive and  
+user-focused applications.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Engineering
+
+Clean & Maintainable Code  
+API Integration  
+Database Design  
+Testing & Debugging  
+Git & Version Control  
+Problem Solving
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
+
+## 🛠️ Complete Tech Stack
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,java" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,figma" />
+</p>
+---
+
+## 🌐 Languages & Technologies
+
+<div align="center">
+
+| Category | Technologies |
+|:---:|:---|
+| 🤖 **AI / ML** | Python • Scikit-learn • PyTorch • TensorFlow |
+| 📊 **Data** | Pandas • NumPy • Matplotlib • Data Analysis |
+| 🌐 **Frontend** | HTML • CSS • JavaScript • TypeScript • React |
+| ⚙️ **Backend** | Node.js • REST APIs • Flask |
+| 📱 **Mobile** | Flutter • Dart • Kotlin • Java |
+| 🗄️ **Databases** | SQLite • MySQL • MongoDB • PostgreSQL |
+| 🛠️ **Tools** | Git • GitHub • VS Code • Docker • Linux |
+
+</div>
+---
+
+## 📈 Skill Overview
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI / Machine Learning
+
+**Machine Learning**  
+███████████████████░ 95%
+
+**Python**  
+███████████████████░ 95%
+
+**Scikit-learn**  
+██████████████████░░ 90%
+
+**Data Analysis**  
+██████████████████░░ 90%
+
+**AI / LLM Applications**  
+█████████████████░░░ 85%
+
+</td>
+
+<td width="50%">
+
+### 💻 Software Development
+
+**HTML / CSS**  
+██████████████████░░ 90%
+
+**JavaScript**  
+█████████████████░░░ 85%
+
+**TypeScript**  
+████████████████░░░░ 80%
+
+**React**  
+████████████████░░░░ 80%
+
+**Node.js**  
+███████████████░░░░░ 75%
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📱 Mobile Development
+
+**Flutter / Dart**  
+████████████████░░░░ 80%
+
+**Kotlin**  
+██████████████░░░░░░ 70%
+
+**Java**  
+██████████████░░░░░░ 70%
+
+</td>
+
+<td width="50%">
+
+### 🧰 Engineering
+
+**Git / GitHub**  
+██████████████████░░ 90%
+
+**REST APIs**  
+████████████████░░░░ 80%
+
+**Databases**  
+███████████████░░░░░ 75%
+
+**Testing & Debugging**  
+████████████████░░░░ 80%
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🫁 Lung Cancer Prediction ML</h3>
+
+<p align="center">
+Machine Learning pipeline for lung cancer prediction, including preprocessing, model comparison, cross-validation, hyperparameter tuning, and error analysis.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ahmedali3ff/lung-cancer-prediction-ml">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💳 CreditGuard ML</h3>
+
+<p align="center">
+Explainable credit-risk classification using the UCI German Credit dataset, with feature engineering, stratified cross-validation, model comparison, and evaluation.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ahmedali3ff/creditguard-ml-Code-Alpha-">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🔎 FlyRank ML Internship</h3>
+
+<p align="center">
+Applied machine learning work focused on search intelligence, Google Search ranking, discoverability, experimentation, and data-driven analysis.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ahmedali3ff/Flyrank-internship-">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>---
+
+## 🔬 Machine Learning Workflow
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 📥
+**01**
+
+**Data**
+
+Collection  
+Validation  
+Understanding
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧹
+**02**
+
+**Preprocessing**
+
+Cleaning  
+Encoding  
+Scaling
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+**03**
+
+**Modeling**
+
+Training  
+Comparison  
+Tuning
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊
+**04**
+
+**Evaluation**
+
+Cross-Validation  
+Metrics  
+Error Analysis
+
+</td>
+
+<td align="center" width="20%">
+
+### 🚀
+**05**
+
+**Delivery**
+
+Serialization  
+Prediction  
+Integration
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+### 📐 Core ML Practices
+
+```text
+Data → Preprocessing → Feature Engineering
+     → Train / Validation → Model Selection
+     → Cross-Validation → Hyperparameter Tuning
+     → Evaluation → Error Analysis → Deployment
+```
+---
+
+## 💼 Experience & Programs
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### 🤖 Machine Learning Intern
+**CodeAlpha**
+
+Machine Learning projects focused on  
+data preprocessing, model development,  
+evaluation, and practical ML workflows.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔎 ML / Search Intelligence
+**FlyRank Internship**
+
+Applied machine learning work focused on  
+search ranking, discoverability, data analysis,  
+and search intelligence.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Huawei Talent
+
+Technology-focused program experience  
+with exposure to software and  
+AI-related learning.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧠 AI Fluency
+**Anthropic Academy**
+
+AI-focused learning covering  
+AI fundamentals, frameworks,  
+and practical applications.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Ahmedali3ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+height="180"
+alt="GitHub Stats"/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedali3ff&layout=compact&langs_count=8&hide_border=true"
+height="180"
+alt="Top Languages"/>
+
+</div>
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Ahmedali3ff&hide_border=true"
+alt="GitHub Streak"/>
+
+</div>---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedali3ff&theme=github-compact&hide_border=true&area=true"
+width="95%"
+alt="GitHub Contribution Activity Graph"/>
+
+</div>---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Ahmedali3ff&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"
+width="95%"
+alt="GitHub Trophies"/>
+
+</div>---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/output/github-contribution-grid-snake.svg"
+width="95%"
+alt="GitHub Contribution Snake"/>
+
+</div>
