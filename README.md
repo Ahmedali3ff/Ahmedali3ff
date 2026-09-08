@@ -626,22 +626,23 @@ and practical applications.
 </div>
 ---
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=Ahmedali3ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
 height="180"
-alt="GitHub Stats"/>
+alt="Ahmed Ali GitHub Stats"/>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedali3ff&layout=compact&langs_count=8&hide_border=true"
 height="180"
-alt="Top Languages"/>
+alt="Ahmed Ali Top Languages"/>
 
 </div>
----
 
 ## 🔥 GitHub Streak
 
@@ -653,16 +654,7 @@ alt="GitHub Streak"/>
 
 </div>---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedali3ff&theme=github-compact&hide_border=true&area=true"
-width="95%"
-alt="GitHub Contribution Activity Graph"/>
-
-</div>---
+---
 
 ## 🏆 GitHub Trophies
 
