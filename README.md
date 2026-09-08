@@ -659,7 +659,7 @@ alt="GitHub Streak"/>
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/output/activity-graph.svg"
+src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/main/profile/activity-graph.svg"
 width="95%"
 alt="Ahmed Ali GitHub Contribution Activity"/>
 
