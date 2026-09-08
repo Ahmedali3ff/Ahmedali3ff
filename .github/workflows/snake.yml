@@ -13,7 +13,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Ahmedali3ff
@@ -21,10 +24,26 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: dist
+      - name: Publish snake to output branch
+        run: |
+          mkdir -p /tmp/snake
+          cp -R dist/* /tmp/snake/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin output:output || true
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+          else
+            git checkout --orphan output
+          fi
+
+          git rm -rf . || true
+
+          cp -R /tmp/snake/* .
+
+          git add .
+          git commit -m "Update contribution snake" || true
+          git push origin output --force
