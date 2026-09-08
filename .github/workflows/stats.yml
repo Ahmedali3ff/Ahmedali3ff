@@ -16,6 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: Generate GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -31,6 +34,9 @@ jobs:
           username: Ahmedali3ff
           output: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check generated files
+        run: ls -la dist
 
       - name: Publish Stats
         uses: crazy-max/ghaction-github-pages@v3.1.0
