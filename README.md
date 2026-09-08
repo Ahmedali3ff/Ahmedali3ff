@@ -652,9 +652,20 @@ alt="Ahmed Ali Top Languages"/>
 src="https://streak-stats.demolab.com?user=Ahmedali3ff&hide_border=true"
 alt="GitHub Streak"/>
 
-</div>---
+</div>
 
 ---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/output/activity-graph.svg"
+width="95%"
+alt="Ahmed Ali GitHub Contribution Activity"/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 
