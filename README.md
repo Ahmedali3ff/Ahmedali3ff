@@ -626,19 +626,17 @@ and practical applications.
 </div>
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Ahmedali3ff&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"
+src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/main/profile/stats.svg"
 height="180"
 alt="Ahmed Ali GitHub Stats"/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedali3ff&layout=compact&langs_count=8&hide_border=true"
+src="https://raw.githubusercontent.com/Ahmedali3ff/Ahmedali3ff/main/profile/top-langs.svg"
 height="180"
 alt="Ahmed Ali Top Languages"/>
 
