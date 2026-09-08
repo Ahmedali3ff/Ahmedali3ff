@@ -62,36 +62,87 @@ I'm an AI Engineer and Full Stack Developer focused on Machine Learning, AI/LLMs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
 </p>
+---
+
+## 📈 Skills
+
+### 🤖 AI & Machine Learning
+```text
+Machine Learning      ███████████████████░  95%
+Python                ███████████████████░  95%
+Data Analysis         ██████████████████░░  90%
+Scikit-learn          ██████████████████░░  90%
+AI / LLM Applications █████████████████░░░  85%
+---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🫁 Lung Cancer Prediction</h3>
+
+<p align="center">
+Machine Learning pipeline for lung cancer prediction with preprocessing, model comparison, cross-validation, hyperparameter tuning, and error analysis.
+</p>
+
+<p align="center">
+<b>Python</b> • <b>Scikit-learn</b> • <b>Machine Learning</b>
+</p>
+
+<p align="center">
 <a href="https://github.com/Ahmedali3ff/lung-cancer-prediction-ml">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=lung-cancer-prediction-ml&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">💳 CreditGuard ML</h3>
+
+<p align="center">
+Explainable credit-risk classification using the UCI German Credit dataset with feature engineering, stratified cross-validation, model comparison, and evaluation.
+</p>
+
+<p align="center">
+<b>Python</b> • <b>Scikit-learn</b> • <b>Explainable ML</b>
+</p>
+
+<p align="center">
 <a href="https://github.com/Ahmedali3ff/creditguard-ml-Code-Alpha-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=creditguard-ml-Code-Alpha-&hide_border=true" />
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
-<a href="https://github.com/Ahmedali3ff/Flyrank-internship-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=Flyrank-internship-&hide_border=true" />
-</a>
+</td>
 
-</div>
+<td width="33%" valign="top">
 
-<br>
+<h3 align="center">🔎 FlyRank ML</h3>
 
-<div align="center">
-
-**🫁 Lung Cancer Prediction ML**  
-End-to-end machine learning pipeline for lung cancer prediction, including preprocessing, model comparison, cross-validation, hyperparameter tuning, evaluation, and feature analysis.
-
-**💳 CreditGuard ML**  
-Explainable credit-risk classification using the UCI German Credit dataset, with feature engineering, stratified cross-validation, model comparison, and evaluation.
-
-**🔎 FlyRank ML Internship**  
+<p align="center">
 Applied machine learning work focused on search intelligence, Google Search ranking, discoverability, experimentation, and data-driven analysis.
+</p>
+
+<p align="center">
+<b>Python</b> • <b>Machine Learning</b> • <b>Search Intelligence</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/Ahmedali3ff/Flyrank-internship-">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
