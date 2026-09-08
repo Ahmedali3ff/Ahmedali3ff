@@ -35,11 +35,63 @@ I'm an AI Engineer and Full Stack Developer focused on Machine Learning, AI/LLMs
 - 🚀 **Goal:** Turn strong technical ideas into useful products
 
 ---
+---
 
 ## 🛠️ Tech Stack
 
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+### 💻 Programming & Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,react,nodejs" />
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+## 🚀 Featured Projects
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,html,css,flutter,dart,kotlin,java,git,github,docker,mongodb,mysql,postgresql&perline=9" />
+<a href="https://github.com/Ahmedali3ff/lung-cancer-prediction-ml">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=lung-cancer-prediction-ml&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ahmedali3ff/creditguard-ml-Code-Alpha-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=creditguard-ml-Code-Alpha-&hide_border=true" />
+</a>
+
+<a href="https://github.com/Ahmedali3ff/Flyrank-internship-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmedali3ff&repo=Flyrank-internship-&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**🫁 Lung Cancer Prediction ML**  
+End-to-end machine learning pipeline for lung cancer prediction, including preprocessing, model comparison, cross-validation, hyperparameter tuning, evaluation, and feature analysis.
+
+**💳 CreditGuard ML**  
+Explainable credit-risk classification using the UCI German Credit dataset, with feature engineering, stratified cross-validation, model comparison, and evaluation.
+
+**🔎 FlyRank ML Internship**  
+Applied machine learning work focused on search intelligence, Google Search ranking, discoverability, experimentation, and data-driven analysis.
 
 </div>
