@@ -1,0 +1,33 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: Ahmedali3ff
+          output_path: dist/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: flat
+
+      - name: Publish Trophies
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
