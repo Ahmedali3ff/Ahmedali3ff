@@ -685,3 +685,102 @@ width="95%"
 alt="GitHub Contribution Snake"/>
 
 </div>
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖
+**AI & ML**
+
+Building practical  
+machine learning systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**Data**
+
+Turning data into  
+useful insights
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+**Engineering**
+
+Building scalable  
+software solutions
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+**Projects**
+
+Turning ideas into  
+real products
+
+</td>
+
+</tr>
+</table>
+
+</div>---
+
+## 🌟 Profile Highlights
+
+<div align="center">
+
+| 🧠 AI / ML | 💻 Full Stack | 🔬 Research | 🚀 Product |
+|:---:|:---:|:---:|:---:|
+| Machine Learning | Web Development | Data & AI Research | Real-World Solutions |
+| Predictive Modeling | APIs & Backend | Experimentation | End-to-End Projects |
+
+</div>---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Ahmedali3ff">
+<img src="https://img.shields.io/badge/GitHub-Ahmedali3ff-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-ali-160928328/">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ahmedalwekil467@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Open to learning, building, collaborating, and creating meaningful technology.**
+
+</div>
+---
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:4169E1,100:6A5ACD&height=140&section=footer&animation=fadeIn"
+width="100%"/>
+
+### Thanks for visiting my profile! 👋
+
+**Ahmed Ali • AI / Machine Learning Engineer • Full Stack Developer**
+
+</div>
