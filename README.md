@@ -38,7 +38,7 @@ alt="Typing SVG"/>
 src="https://komarev.com/ghpvc/?username=Ahmedali3ff&style=for-the-badge&label=PROFILE+VIEWS"
 alt="Profile Views"/>
 
-</div>---
+</div>
 
 ## 👨‍💻 About Me
 
@@ -61,7 +61,7 @@ I work across the full development lifecycle — from **data analysis and machin
 **Artificial Intelligence • Machine Learning • Data • Software Engineering**
 
 > Building technology that solves real problems — not just demos.
----
+
 
 ## ⚡ What I Do
 
@@ -134,7 +134,6 @@ I work across the full development lifecycle — from **data analysis and machin
 
 </tr>
 </table>
----
 
 ## 🤖 AI / Machine Learning Expertise
 
@@ -195,7 +194,7 @@ Intelligent Products
 </table>
 
 </div>
----
+
 
 ## 💻 Development Expertise
 
@@ -310,7 +309,7 @@ Problem Solving
 | 🛠️ **Tools** | Git • GitHub • VS Code • Docker • Linux |
 
 </div>
----
+
 
 ## 📈 Skill Overview
 
@@ -402,7 +401,7 @@ Problem Solving
 </table>
 
 </div>
----
+
 
 ## 🚀 Featured Projects
 
