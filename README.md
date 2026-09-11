@@ -61,7 +61,7 @@ I work across the full development lifecycle — from **data analysis and machin
 **Artificial Intelligence • Machine Learning • Data • Software Engineering**
 
 > Building technology that solves real problems — not just demos.
-
+___
 
 ## ⚡ What I Do
 
@@ -103,6 +103,7 @@ I work across the full development lifecycle — from **data analysis and machin
 <tr>
 
 <td width="50%" valign="top">
+___
 
 ### 📊 Data & ML Engineering
 
@@ -402,7 +403,7 @@ Problem Solving
 
 </div>
 
-
+___
 ## 🚀 Featured Projects
 
 <div align="center">
